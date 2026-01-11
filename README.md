@@ -1,4 +1,4 @@
-# 📊 Statistics & Probability – A Gentle Introduction
+# 📊 A Gentle Introduction to Probability & Statistics
 
 This repository contains my notes, Google Colab notebooks, and supporting materials for learning and revisiting **probability and statistics** from an intuition-first perspective.
 
