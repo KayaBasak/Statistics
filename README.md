@@ -16,18 +16,34 @@ The goal of this repository is not to be overly mathematical, but to build a **c
 - Sampling variability  
 - Law of Large Numbers  
 - Population vs sample  
-- A high-level comparison of **frequentist** and **Bayesian** thinking  
+
+- Hypothesis testing framework
+- Null and alternative hypotheses
+- Test statistics (z- and t-statistics)
+- p-values and their interpretation
+- One-tailed vs two-tailed tests
+- Significance level (α) and decision rules
+- Confidence intervals and their interpretation
+- The connection between confidence intervals and hypothesis tests
 
 ---
 
 ## 📓 Google Colab Notebooks
 
 The notebooks in this repository include:
+1. A Gentle Introduction to Probability and Statistical Thinking
 - Simulations of random experiments (coin toss, dice roll)
 - Visualizations of PDF and CDF
 - Sampling variability demonstrations
 - Convergence of empirical probability
 
+2. Frequentist Approach
+- Hypothesis testing
+- Test statistic
+- p-value
+- Significance level
+- Confidence interval
+- One-tailed vs two-tailed tests
 ---
 
 ## ✍️ Medium Blog Series
@@ -37,6 +53,9 @@ These notebooks are designed to **complement** my Medium blog series, where I ex
 📖 **Blog post:**  
 1. Two Ways of Thinking About Uncertainty
 [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001/two-ways-of-thinking-about-uncertainty-28cf1e38d2a7)
+
+1. Two Ways of Thinking About Uncertainty: Frequentist Approach
+[![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001/two-ways-of-thinking-about-uncertainty-frequentist-approach-e57cf93d0a46)
 
 ---
 
